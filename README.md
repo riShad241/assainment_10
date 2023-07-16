@@ -1,16 +1,7 @@
 # assainment10
 
-A new Flutter project.
+1. Portrait
+![Screenshot_21](https://github.com/riShad241/assainment_10/assets/106663161/bc6aad78-ff5c-4d61-b5d4-6a7f717477c6)
+2.Landscope
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20](https://github.com/riShad241/assainment_10/assets/106663161/00fd0dce-91f7-493d-b8b7-1f8e1a9ed2a5)
